@@ -1,0 +1,23 @@
+#center {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	font-size: 3vw;
+	flex-wrap: nowrap;
+}
+
+#block {
+	width: 200px;
+	height: 200px;
+	background: gray;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	font-size: 2vw;
+	color: white;
+	margin: 1vw;
+}
